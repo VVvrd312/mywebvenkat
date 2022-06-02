@@ -5,6 +5,6 @@
 </html>
 <html>
 <body>
-	<h1 style="color: red; font-size: 4790px;" align="center">  python aws traingings by kumar sir</h1>
+	<h1 style="color: red; font-size: 90px;" align="center">  python aws traingings by kumar sir ..microsoft</h1>
 </body>
 </html>
